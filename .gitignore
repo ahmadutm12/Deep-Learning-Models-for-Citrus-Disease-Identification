@@ -1,0 +1,10 @@
+# images and large outputs are not stored in this repository
+split_dataset/
+*.zip
+*.keras
+*.h5
+*.npz
+citrus_v*_results/
+prepare_data_report.csv
+__pycache__/
+.ipynb_checkpoints/

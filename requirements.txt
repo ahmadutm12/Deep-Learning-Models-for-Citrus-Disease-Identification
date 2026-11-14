@@ -1,0 +1,13 @@
+# Versions used for the published results (Kaggle GPU image, November 2026)
+tensorflow==2.21.0
+keras==3.13.2
+# Other packages: versions pre-installed in the same Kaggle image
+numpy
+pandas
+scikit-learn
+scikit-image
+statsmodels
+imagehash
+Pillow
+matplotlib
+lime

@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code or the fold assignments, please cite it as below."
+title: "Explainable and leakage-controlled deep learning for citrus disease identification: code and fold assignments"
+version: 1.0.0
+license: MIT
+authors:
+  - family-names: Irshad
+    given-names: Aima
+    affiliation: "Department of Artificial Intelligence, Superior University, Lahore, Pakistan"
+# add the co-author/supervisor here as a second "- family-names: ... given-names: ..." entry
